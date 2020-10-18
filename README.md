@@ -1,6 +1,6 @@
 # Project2_King_Meausoone_Nalini_Petrov. 
 
-W200 Final Project
+W200 Summer 2019
 
 Team members:
 - Casey King
